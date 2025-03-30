@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Reproductor de Videos</title>
+</head>
+<body>
+    <h1>Bienvenido a mi web de videos</h1>
+    <video controls width="800">
+        <source src="https://tuservidor.com/pelicula.mp4" type="video/mp4">
+        Tu navegador no soporta videos.
+    </video>
+</body>
+</html>
